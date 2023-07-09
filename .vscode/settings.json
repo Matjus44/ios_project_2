@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "cstdio": "c",
+        "streambuf": "c",
+        "cmath": "c"
+    }
+}
